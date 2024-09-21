@@ -24,6 +24,7 @@ El corazón de este programa es la clase `TimerResolutionManager`, que utiliza f
 ### Instrucciones de uso:
 
 1. Cuando ejecutas el programa, te pedirá el nombre del proceso que deseas monitorear (incluyendo la extensión `.exe`). Aquí es donde puedes especificar ese juego o programa que siempre quieres que tenga el temporizador al maximo.
+Ejemplo: `FortniteClient-Win64-Shipping.exe`
    
 2. El programa monitorea constantemente si el proceso está corriendo, ajusta la resolución cuando es necesario, y una vez que el proceso termina, todo vuelve a la normalidad.
 
