@@ -32,3 +32,4 @@ Este código es un tributo a esos momentos en los que necesitas más de tu PC, a
 
 Con cariño,
 **Patsima**
+![enter image description here](https://github.com/PATSIMA/Timer-Resolution/blob/main/Timer.png)
