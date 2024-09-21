@@ -17,7 +17,7 @@ El corazón de este programa es la clase `TimerResolutionManager`, que utiliza f
 
 ### Instrucciones antes de su uso:
 
-1. Ejecutar en CMD como administrador los siguientes comandos: bcdedit /set useplatformtick yes & bcdedit /set disabledynamictick yes
+1. Ejecutar en CMD como administrador los siguientes comandos: `bcdedit /set useplatformtick yes & bcdedit /set disabledynamictick yes`
 
 2. Deshabilitar la compatibilidad con ACPI del temporizador de eventos de alta precisión (HPET). Abre Device Manager, ve hacia el apartado System Devices y da click derecho sobre High precision event timer y deshabilitalo.
 
